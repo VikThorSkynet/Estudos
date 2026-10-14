@@ -1,0 +1,4 @@
+interface:
+  display_name: "Estudo gamificado"
+  short_description: "Trilhas com exemplos visuais, exercícios e missões"
+  default_prompt: "Use $estudo-gamificado para me ensinar [tema] desde o início até o avançado, com exemplos visuais, exercícios, gamificação e materiais organizados."
